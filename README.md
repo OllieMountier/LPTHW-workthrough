@@ -3,3 +3,4 @@ My study of the "Learn Python The Hard Way" book by Zed A. Shaw. Here I will be 
 
 Exercise 1- ![2023-08-02](https://github.com/OllieMountier/LPTHW-workthrough/assets/116648304/79b71f97-e50e-43c3-bd79-3e9536ee2c5c)
 
+Exercise 3- ![image](https://github.com/OllieMountier/LPTHW-workthrough/assets/116648304/594879f7-cfb6-44d2-84fe-9df37a1ed494)
