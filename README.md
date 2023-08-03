@@ -12,3 +12,6 @@ Exercise 5- ![image](https://github.com/OllieMountier/LPTHW-workthrough/assets/1
 Exercise 6- ![image](https://github.com/OllieMountier/LPTHW-workthrough/assets/116648304/73616284-a935-44b9-bc06-ec1770bb20f9)
 
 Exercise 7- ![image](https://github.com/OllieMountier/LPTHW-workthrough/assets/116648304/2aff8a3a-46aa-4fe2-92f6-bda4c58b7ade)
+
+Exercise 8- ![image](https://github.com/OllieMountier/LPTHW-workthrough/assets/116648304/7ed151f0-213d-48c1-8e55-a6b8f5e30f36)
+
