@@ -7,22 +7,22 @@
 # strings and alter the below code. It also continues to make the student to use comments to describe code.
 
 # I have changed the variables in the book from the authors personal details, to my own.
-my_name = 'Ollie Mountier'
-my_age = 20
-my_height = 178 #inches
-my_weight = 104.1 #kilograms
-my_eyes = "Blue"
-my_teeth = "white"
-my_hair = "blond"
+name = 'Ollie Mountier'
+age = 20
+height = 178 #inches
+weight = 104.1 #kilograms
+eyes = "Blue"
+teeth = "white"
+hair = "blond"
 
 # printing the variables embedded in strings is something I need to get used to. Its proven complicated to transfer over to this version but I will now focus on using this in future exercises
-print("Lets talk about %s." %my_name)
-print("He's %d inches tall" % my_height)
-print("He's %d kilograms heavy" % my_weight)
+print("Lets talk about %s." %name)
+print("He's %d inches tall" % height)
+print("He's %d kilograms heavy" % weight)
 print("Thats actually not too heavy")
-print("He's got %s eyes and %s hair" % (my_eyes, my_hair))
-print("His teeth are usually %s depending on the coffee" % my_teeth)
+print("He's got %s eyes and %s hair" % (eyes, hair))
+print("His teeth are usually %s depending on the coffee" % teeth)
 
 # To challenge the student, he included a sum using the format strings. However, with practice in difficult sums already
 # it was just nice to further practice the format repetitively
-print("If i add %d, %d, and %d I get %d" % (my_age, my_height, my_weight, my_age + my_height + my_weight))
+print("If i add %d, %d, and %d I get %d" % (age, height, weight, age + height + weight))
