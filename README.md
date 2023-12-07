@@ -1,5 +1,5 @@
 # LPTHW-workthrough
-My study of the "Learn Python The Hard Way" book by Zed A. Shaw. Here I will be improving and going over my skills in order, which will be uploaded ready for larger projects. I am doing this in order to better my abilities, provide more evidence and prove my expertise for employers whilst I continue my job search.
+My study of the "Learn Python The Hard Way" book by Zed A. Shaw. Here I will be improving and going over my skills in order, which will be uploaded ready for larger projects. I am doing this in order to better my abilities, provide more evidence and prove my expertise for employers whilst I continue my job search. Feedback for each coding exercise is included within the file as narrative comments, as well as images of each files results being printed below in this readME.
 
 Exercise 1- ![2023-08-02](https://github.com/OllieMountier/LPTHW-workthrough/assets/116648304/79b71f97-e50e-43c3-bd79-3e9536ee2c5c)
 
